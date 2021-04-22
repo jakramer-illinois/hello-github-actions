@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=~/public_html/
-    - /bin/cp -R README $DEPLOYPATH
+    - /bin/cp -R README.md $DEPLOYPATH
 
